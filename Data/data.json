@@ -1,0 +1,136 @@
+{
+    "AboutMe":"My name is Chloe Almazien and I am Bulk Bogan",
+    "Projects":[{
+        "name":"Calculator",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+       "name":" BMI Calculator",
+        "github":"https://github.com/demilee06/BMI",
+        "vercel":"https://bmi-lake-gamma.vercel.app/",
+        "description":"I used.....",
+        "image":"url" 
+    },{
+        "name":"Temperature Converter",
+        "github":"https://github.com/demilee06/Temperature-Converter",
+        "vercel":"https://temperature-converter-ten-gamma.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"Swegga Project",
+        "github":"https://github.com/demilee06/SWEGGA-Project",
+        "vercel":"https://swegga-project-five.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"NextNumber",
+        "github":"https://github.com/demilee06/nextnumber",
+        "vercel":"https://nextnumber.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"MinMax",
+        "github":"https://github.com/demilee06/minmax",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"AddUp",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"InterestAmount",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"CountingTruthy",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"AgeToDays",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"minToSec",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"AreaOfATriangle",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"HexToRGB",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    },{
+        "name":"RGBToHex",
+        "github":"https://github.com/demilee06/calculator",
+        "vercel":"https://calculator-15l1.vercel.app/",
+        "description":"I used.....",
+        "image":"url"
+    }
+
+
+],
+
+"education":[
+    {
+        "description":"",
+        "year":"2019-2023",
+        "placeOfInstitution":"Westridge High School",
+        "contact":[
+            {
+                "name":"",
+                "contactDetails":""               
+            }
+        ]
+    }
+],
+"skills":[
+    {
+        "name":"html",
+        "image":"url"
+    },
+    {
+        "name":"html",
+        "image":"url" 
+    }
+],
+"workExp":[
+    {
+        "placeOfWork":"",
+        "year":"",
+        "description":"",
+        "contact":{
+            "name":"",
+            "cell":"",
+            "position":"",
+            "email":""
+        }
+    }
+],
+"testimonials":[
+    {
+        "name":"",
+        "position":"",
+        "message":"",
+        "image":"url"
+    }
+]
+}
