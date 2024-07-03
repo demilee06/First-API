@@ -12,7 +12,7 @@
             "github":"https://github.com/demilee06/calculator",
             "vercel":"https://calculator-15l1.vercel.app/",
             "description":"This project is a combination of HTML and CSS. it is a functional calculator that I had done  research on.",
-            "image":"url"
+            "image":"https://demilee06.github.io/images-bootstrap-project/wednesday.png"
         },
         {
         "name":" BMI Calculator",
@@ -145,22 +145,25 @@
             "placeOfWork":"Volunteering at the Manenberg Library",
             "year":"2022-2023",
             "description":"The experience of helping out at a library is not like anything I have done before in my life, it was very trying at times based on what would need to be done in a day. the library was a delightful event to be apart of and learn from.",
+            "contact":[{
                 "name":"Phatiswa Matshaya",
                 "cell":"0214449998",
                 "position":"Librarian",
                 "email":"Phatiswa.DeWetMatshaya@capetown.gov.za"
+
+             }]
             }
         ,
         {
             "placeOfWork":"Part-time Job as a Catering assistant",
             "year":"2024Apr-2024(to be continued)",
             "description":"The job gave me lots of opportunities to interact with people from many different walks of life. I got to learn a little about how the business sector worked the only side to it that was a bit tough was the times that I would be working but overall it it was very helpful in terms of learning and earning.",
-            "contact":{
+            "contact":[{
                 "name":"Liesl Smith",
                 "cell":"0834382279",
                 "position":"Owner",
                 "email":"liesl@eventsplace.co.za"
-            }
+            }]
         }
     ],
     "testimonials":[
