@@ -1,136 +1,198 @@
-{
-    "aboutMe":"My name is Chloe Almazien and I am Bulk Bogan",
-    "Projects":[{
-        "name":"Calculator",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-       "name":" BMI Calculator",
-        "github":"https://github.com/demilee06/BMI",
-        "vercel":"https://bmi-lake-gamma.vercel.app/",
-        "description":"I used.....",
-        "image":"url" 
-    },{
-        "name":"Temperature Converter",
-        "github":"https://github.com/demilee06/Temperature-Converter",
-        "vercel":"https://temperature-converter-ten-gamma.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"Swegga Project",
-        "github":"https://github.com/demilee06/SWEGGA-Project",
-        "vercel":"https://swegga-project-five.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"NextNumber",
-        "github":"https://github.com/demilee06/nextnumber",
-        "vercel":"https://nextnumber.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"MinMax",
-        "github":"https://github.com/demilee06/minmax",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"AddUp",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"InterestAmount",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"CountingTruthy",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"AgeToDays",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"minToSec",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"AreaOfATriangle",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"HexToRGB",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    },{
-        "name":"RGBToHex",
-        "github":"https://github.com/demilee06/calculator",
-        "vercel":"https://calculator-15l1.vercel.app/",
-        "description":"I used.....",
-        "image":"url"
-    }
-
-
-],
-
-"education":[
-    {
-        "description":"",
-        "year":"2019-2023",
-        "placeOfInstitution":"Westridge High School",
-        "contact":[
+ {
+    "aboutMe":[
+        {
+            "name":"Chloe Almazien ",
+            "message":"Well hello there viewer , I am an Aspiring Full-Stack Developer who wants to specializes  in back-end coding. My journey started at life choices , where I am currently studying coding . During my six month study course  I would like to have learned things that have really shaped my perspective on life and the world around me it also gave me the chance to find a love for technology, and its ever growing system. I would say that as it has evolved in a way, which could help me become a better form of myself as well.",
+            "messageTwo":"I have a goal to become an entrepreneur who can back her own business and doing this course has gotten me to a point where I feel more confident that what I want to accomplish will come into being."
+        }
+    ],
+    "Projects":[
             {
-                "name":"",
-                "contactDetails":""               
+            "name":"Calculator",
+            "github":"https://github.com/demilee06/calculator",
+            "vercel":"https://calculator-15l1.vercel.app/",
+            "description":"This project is a combination of HTML and CSS. it is a functional calculator that I had done  research on.",
+            "image":"url"
+        },
+        {
+        "name":" BMI Calculator",
+            "github":"https://github.com/demilee06/BMI",
+            "vercel":"https://bmi-lake-gamma.vercel.app/",
+            "description":"This project consisted of me making a full functional BMI converter that included HTML, CSS and Javascript.",
+            "image":"url" 
+        },{
+            "name":"Temperature Converter",
+            "github":"https://github.com/demilee06/Temperature-Converter",
+            "vercel":"https://temperature-converter-ten-gamma.vercel.app/",
+            "description":"This project consisted of me making a full functional Temperature converter that included HTML, CSS and Javascript.",
+            "image":"url"
+        },{
+            "name":"Swegga Project",
+            "github":"https://github.com/demilee06/SWEGGA-Project",
+            "vercel":"https://swegga-project-five.vercel.app/",
+            "description":"This project consisted of me making a full functional SWEGGA fashion advertisement that included HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"NextNumber",
+            "github":"https://github.com/demilee06/nextnumber",
+            "vercel":"https://nextnumber.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"MinMax",
+            "github":"https://github.com/demilee06/minmax",
+            "vercel":"https://minmax-ten.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"AddUp",
+            "github":"https://github.com/demilee06/addup",
+            "vercel":"https://addup-orcin.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"InterestAmount",
+            "github":"https://github.com/demilee06/interestA",
+            "vercel":"https://interest-a.vercel.app/ ",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"CountingTruthy",
+            "github":"https://github.com/demilee06/countingT",
+            "vercel":"https://counting-t.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"AgeToDays",
+            "github":"https://github.com/demilee06/agetodays",
+            "vercel":"https://agetodays-pied.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"minToSec",
+            "github":"https://github.com/demilee06/Mseconds",
+            "vercel":"https://mseconds.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"AreaOfATriangle",
+            "github":"https://github.com/demilee06/areaT",
+            "vercel":"https://area-t.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"HexToRGB",
+            "github":"https://github.com/demilee06/hex",
+            "vercel":"https://hex-sigma.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"RGBToHex",
+            "github":"https://github.com/demilee06/rgb",
+            "vercel":"https://rgb-iota.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"To-Do List",
+            "github":"https://github.com/demilee06/To-Do-List",
+            "vercel":"https://to-do-list-alpha-beryl-26.vercel.app/",
+            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
+            "image":"url"
+        },{
+            "name":"Hulu",
+            "github":"https://github.com/demilee06/Hulu",
+            "vercel":"https://hulu-eight.vercel.app/",
+            "description":"This project consisted of me making a full functional one page website that would make use of HTML, CSS and Javascript",
+            "image":"url"
+
+        }
+
+
+    ],
+    "education":[
+        {
+            "description":"Westridge High is an academically driven school that as dabbles in sports. I had attended this school for five years and it was a very exciting experience, the teachers at the school are amazing at what they do and they pride themselves on doing the best for the sake of the pupils. I appreciate the time I spent their and those who learned alongside me.",
+            "year":"2019-2023",
+            "placeOfInstitution":"Westridge High School",
+            "contact":[
+                {
+                    "name":"Mr E.N. Magaar",
+                    "contactDetails":"0213717400"               
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"Html (intermediate)",
+            "image":""
+        },
+        {
+            "name":"CSS (intermediate)",
+            "image":" " 
+        },
+        {
+            "name":"Bootrstap (intermediate)",
+            "image":"" 
+        },
+        {
+            "name":"Vue js (intermediate)",
+            "image":""
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"Volunteering at the Manenberg Library",
+            "year":"2022-2023",
+            "description":"The experience of helping out at a library is not like anything I have done before in my life, it was very trying at times based on what would need to be done in a day. the library was a delightful event to be apart of and learn from.",
+                "name":"Phatiswa Matshaya",
+                "cell":"0214449998",
+                "position":"Librarian",
+                "email":"Phatiswa.DeWetMatshaya@capetown.gov.za"
             }
-        ]
-    }
-],
-"skills":[
+        ,
+        {
+            "placeOfWork":"Part-time Job as a Catering assistant",
+            "year":"2024Apr-2024(to be continued)",
+            "description":"The job gave me lots of opportunities to interact with people from many different walks of life. I got to learn a little about how the business sector worked the only side to it that was a bit tough was the times that I would be working but overall it it was very helpful in terms of learning and earning.",
+            "contact":{
+                "name":"Liesl Smith",
+                "cell":"0834382279",
+                "position":"Owner",
+                "email":"liesl@eventsplace.co.za"
+            }
+        }
+    ],
+    "testimonials":[
     {
-        "name":"html",
-        "image":"url"
+        "name":"Gwiba Mabandla",
+        "position":"Classmate/Fellow student at the Life Choices Academy",
+        "message":"Chloe is hardworking, very keen on small details and have has a create sense of design and personality towards her work. She keeps improving her skills everyday and I'm here for it.",
+        "image":"https://demilee06.github.io/images-bootstrap-project/IMG-20221024-WA0251.jpg"
     },
     {
-        "name":"html",
-        "image":"url" 
-    }
-],
-"workExp":[
+        "name":"Chloe Smith",
+        "position":"Classmate/Fellow student at the Life Choices Academy",
+        "message":"Chloe's creativity and dedication are unmatched. She consistently delivers stunning work that captivates and impresses. Her passion for mastering new skills is evident in everything she does. Chloe's talent knows no bounds, and I'm excited to see where her journey takes her.",
+        "image":"https://demilee06.github.io/images-bootstrap-project/Chloe%20testimonial%20pic.png"
+    },
     {
-        "placeOfWork":"",
-        "year":"",
-        "description":"",
-        "contact":{
-            "name":"",
-            "cell":"",
-            "position":"",
-            "email":""
-        }
-    }
-],
-"testimonials":[
+        "name":"Chandre Davids",
+        "position":"Classmate/Fellow student at the Life Choices Academy",
+        "message":"Chloe is a very dedicated and hard working individual who never ceases to amaze me with her charm and humor in particularly tense situations. She's the light in a dark room, in terms of both her personality and her intelligence. She is really good at public speaking. When she talks the entire room can not help but listen to her and her viewpoints. She is truly an amazing human being.",
+        "image":"https://demilee06.github.io/images-bootstrap-project/Screenshot_20240506_123313.jpg"
+    },
     {
-        "name":"",
-        "position":"",
-        "message":"",
-        "image":"url"
+        "name":"Zen George",
+        "position":"Classmate/Fellow student at the Life Choices Academy",
+        "message":"Having Chloe  as a classmate has been a delightful experience. Her dedication to their studies, combined with their friendly and supportive demeanor, creates a positive atmosphere for everyone around them.",
+        "image":"https://demilee06.github.io/images-bootstrap-project/20240422_122153.jpg"
+    },
+    {
+        "name":"Keegan Niekerk",
+        "position":"Classmate/Fellow student at the Life Choices Academy",
+        "message":"Chloe is a very charming , smart and helpful young women who always strives for knowledge and is very inquisitive and always one to ask questions. She is always one to come and help when help is needed.",
+        "image":"https://demilee06.github.io/images-bootstrap-project/keegan.jpg"
     }
 ]
 }
