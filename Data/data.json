@@ -19,85 +19,85 @@
             "github":"https://github.com/demilee06/BMI",
             "vercel":"https://bmi-lake-gamma.vercel.app/",
             "description":"This project consisted of me making a full functional BMI converter that included HTML, CSS and Javascript.",
-            "image":"url" 
+            "image":"https://demilee06.github.io/Portfolio-images/images/BMI%20converter.png" 
         },{
             "name":"Temperature Converter",
             "github":"https://github.com/demilee06/Temperature-Converter",
             "vercel":"https://temperature-converter-ten-gamma.vercel.app/",
             "description":"This project consisted of me making a full functional Temperature converter that included HTML, CSS and Javascript.",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/Temp%20Converter.png"
         },{
             "name":"Swegga Project",
             "github":"https://github.com/demilee06/SWEGGA-Project",
             "vercel":"https://swegga-project-five.vercel.app/",
             "description":"This project consisted of me making a full functional SWEGGA fashion advertisement that included HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/SWEGGA.png"
         },{
             "name":"NextNumber",
             "github":"https://github.com/demilee06/nextnumber",
             "vercel":"https://nextnumber.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/nextNumber.png"
         },{
             "name":"MinMax",
             "github":"https://github.com/demilee06/minmax",
             "vercel":"https://minmax-ten.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/minMax.png"
         },{
             "name":"AddUp",
             "github":"https://github.com/demilee06/addup",
             "vercel":"https://addup-orcin.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/Add%20up%20task.png"
         },{
             "name":"InterestAmount",
             "github":"https://github.com/demilee06/interestA",
             "vercel":"https://interest-a.vercel.app/ ",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/Interest%20Amount.pngurl"
         },{
             "name":"AgeToDays",
             "github":"https://github.com/demilee06/agetodays",
             "vercel":"https://agetodays-pied.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/agetoDays.png"
         },{
             "name":"minToSec",
             "github":"https://github.com/demilee06/Mseconds",
             "vercel":"https://mseconds.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/minsToSeconds.png"
         },{
             "name":"AreaOfATriangle",
             "github":"https://github.com/demilee06/areaT",
             "vercel":"https://area-t.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/AreaofaTriangle.png"
         },{
             "name":"HexToRGB",
             "github":"https://github.com/demilee06/hex",
             "vercel":"https://hex-sigma.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/Hex%20to%20RGB.png"
         },{
             "name":"RGBToHex",
             "github":"https://github.com/demilee06/rgb",
             "vercel":"https://rgb-iota.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/RGB%20to%20Hex.png"
         },{
             "name":"To-Do List",
             "github":"https://github.com/demilee06/To-Do-List",
             "vercel":"https://to-do-list-alpha-beryl-26.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/To-Do%20List.png"
         },{
             "name":"Hulu",
             "github":"https://github.com/demilee06/Hulu",
             "vercel":"https://hulu-eight.vercel.app/",
             "description":"This project consisted of me making a full functional one page website that would make use of HTML, CSS and Javascript",
-            "image":"url"
+            "image":"https://demilee06.github.io/Portfolio-images/images/hulu.png"
 
         }
 
