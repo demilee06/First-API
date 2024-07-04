@@ -57,12 +57,6 @@
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
             "image":"url"
         },{
-            "name":"CountingTruthy",
-            "github":"https://github.com/demilee06/countingT",
-            "vercel":"https://counting-t.vercel.app/",
-            "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
-            "image":"url"
-        },{
             "name":"AgeToDays",
             "github":"https://github.com/demilee06/agetodays",
             "vercel":"https://agetodays-pied.vercel.app/",
