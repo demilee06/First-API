@@ -21,7 +21,7 @@
             "description":"This project consisted of me making a full functional BMI converter that included HTML, CSS and Javascript.",
             "image":"https://demilee06.github.io/Portfolio-images/images/BMI%20converter.png" 
         },{
-            "name":"Temperature Converter",
+            "name":"Temp Converter",
             "github":"https://github.com/demilee06/Temperature-Converter",
             "vercel":"https://temperature-converter-ten-gamma.vercel.app/",
             "description":"This project consisted of me making a full functional Temperature converter that included HTML, CSS and Javascript.",
@@ -69,7 +69,7 @@
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
             "image":"https://demilee06.github.io/Portfolio-images/images/minsToSeconds.png"
         },{
-            "name":"AreaOfATriangle",
+            "name":"AreaOfATri",
             "github":"https://github.com/demilee06/areaT",
             "vercel":"https://area-t.vercel.app/",
             "description":"This project consisted of me making a full functional input that could determine the next number, this consisted project HTML, CSS and Javascript",
@@ -163,37 +163,6 @@
                 "email":"liesl@eventsplace.co.za"
             }]
         }
-    ],
-    "testimonials":[
-    {
-        "name":"Gwiba Mabandla",
-        "position":"Classmate/Fellow student at the Life Choices Academy",
-        "message":"Chloe is hardworking, very keen on small details and have has a create sense of design and personality towards her work. She keeps improving her skills everyday and I'm here for it.",
-        "image":"https://demilee06.github.io/images-bootstrap-project/IMG-20221024-WA0251.jpg"
-    },
-    {
-        "name":"Chloe Smith",
-        "position":"Classmate/Fellow student at the Life Choices Academy",
-        "message":"Chloe's creativity and dedication are unmatched. She consistently delivers stunning work that captivates and impresses. Her passion for mastering new skills is evident in everything she does. Chloe's talent knows no bounds, and I'm excited to see where her journey takes her.",
-        "image":"https://demilee06.github.io/images-bootstrap-project/Chloe%20testimonial%20pic.png"
-    },
-    {
-        "name":"Chandre Davids",
-        "position":"Classmate/Fellow student at the Life Choices Academy",
-        "message":"Chloe is a very dedicated and hard working individual who never ceases to amaze me with her charm and humor in particularly tense situations. She's the light in a dark room, in terms of both her personality and her intelligence. She is really good at public speaking. When she talks the entire room can not help but listen to her and her viewpoints. She is truly an amazing human being.",
-        "image":"https://demilee06.github.io/images-bootstrap-project/Screenshot_20240506_123313.jpg"
-    },
-    {
-        "name":"Zen George",
-        "position":"Classmate/Fellow student at the Life Choices Academy",
-        "message":"Having Chloe  as a classmate has been a delightful experience. Her dedication to their studies, combined with their friendly and supportive demeanor, creates a positive atmosphere for everyone around them.",
-        "image":"https://demilee06.github.io/images-bootstrap-project/20240422_122153.jpg"
-    },
-    {
-        "name":"Keegan Niekerk",
-        "position":"Classmate/Fellow student at the Life Choices Academy",
-        "message":"Chloe is a very charming , smart and helpful young women who always strives for knowledge and is very inquisitive and always one to ask questions. She is always one to come and help when help is needed.",
-        "image":"https://demilee06.github.io/images-bootstrap-project/keegan.jpg"
-    }
-]
+    ]
+    
 }
