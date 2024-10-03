@@ -118,24 +118,44 @@
     ],
     "skills":[
         {
-            "name":"Html (intermediate)",
+            "name":"Html ",
             "link":"https://www.w3schools.com/css/",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         },
         {
-            "name":"CSS (intermediate)",
+            "name":"CSS (",
             "link":"https://www.w3schools.com/css/",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " 
         },
         {
-            "name":"Bootrstap (intermediate)",
+            "name":"Bootrstap ",
             "link":"https://getbootstrap.com",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
         },
         {
-            "name":"Vue js (intermediate)",
+            "name":"Vue js ",
             "link":"https://vuejs.org/",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+        },
+        {
+            "name":"Node js",
+            "link":"https://nodejs.org/en",
+            "image":"https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
+        },
+        {
+            "name":"MySQL ",
+            "link":"https://www.mysql.com/",
+            "image":"https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png"
+        },
+        {
+            "name":"Javascript",
+            "link":"https://www.w3schools.com/js/DEFAULT.asp",
+            "image":"https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png"
+        },
+        {
+            "name":"Git ",
+            "link":"https://github.com/",
+            "image":"https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png"
         }
     ],
     "workExp":[
