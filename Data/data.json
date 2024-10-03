@@ -123,12 +123,12 @@
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         },
         {
-            "name":"CSS (",
+            "name":"CSS",
             "link":"https://www.w3schools.com/css/",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " 
         },
         {
-            "name":"Bootrstap ",
+            "name":"Bootstrap ",
             "link":"https://getbootstrap.com",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
         },
