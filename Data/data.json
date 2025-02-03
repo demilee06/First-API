@@ -100,6 +100,20 @@
             "image":"https://demilee06.github.io/Portfolio-images/images/hulu.png"
 
         }
+        ,{
+            "name":"Wordpress Portfolio",
+            "pantheon.io":"https://dev-chloes-portfolio.pantheonsite.io/",
+            "description":"This project consisted of me making a full functional one page website that would make use of HTML, This is a clone of the Hulu streaming service app. ",
+            "image":""
+
+        }
+        ,{
+            "name":"Wordpress E-com Website",
+            "pantheon.io":"https://dev-my-com-website.pantheonsite.io/",
+            "description":"This project consisted of me making a full functional one page website that would make use of HTML, This is a clone of the Hulu streaming service app. ",
+            "image":""
+
+        }
 
 
     ],
@@ -160,12 +174,12 @@
         {
             "name":"Wordpress",
             "link":"https://wordpress.com/",
-            "image":"https://download.logo.wine/logo/WordPress.com/WordPress.com-Logo.wine.png"
+            "image":"https://static.vecteezy.com/system/resources/thumbnails/020/975/579/small_2x/wordpress-logo-wordpress-icon-transparent-free-png.png"
         },
         {
             "name":"Python",
             "link":"https://www.python.org/",
-            "image":"https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"
+            "image":"https://blog.accredian.com/wp-content/uploads/2019/04/Python-logo.jpg"
         }
        
         
