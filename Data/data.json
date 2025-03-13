@@ -15,7 +15,7 @@
             "image":"https://demilee06.github.io/images-bootstrap-project/wednesday.png"
         },
         {
-        "name":" BMI Calculator",
+            "name":" BMI Calculator",
             "github":"https://github.com/demilee06/BMI",
             "vercel":"https://bmi-lake-gamma.vercel.app/",
             "description":"This project consisted of me making a full functional BMI converter that included HTML, CSS and Javascript.",
@@ -103,17 +103,32 @@
         ,{
             "name":"Wordpress Portfolio",
             "pantheon.io":"https://dev-chloes-portfolio.pantheonsite.io/",
-            "description":"This project consisted of me making a full functional one page website that would make use of HTML, This is a clone of the Hulu streaming service app. ",
-            "image":""
+            "description":"This Website is a digital portfolio that I made on pantheon.io using WordPress and elementor , its design was modelled after my personal digital portfolio. ",
+            "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-02-12%20084821.png"
 
         }
         ,{
             "name":"Wordpress E-com Website",
             "pantheon.io":"https://dev-my-com-website.pantheonsite.io/",
-            "description":"This project consisted of me making a full functional one page website that would make use of HTML, This is a clone of the Hulu streaming service app. ",
-            "image":""
+            "description":"This project was built for a web development assigment, it is a e-commernce website where I integrated a products page that was provided while also adding a cart , checkout and a payment method. ",
+            "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-02-12%20084612.png"
 
         }
+        ,
+        {
+            "name":"Python HangMan Game",
+            "render":"https://hangman-4.onrender.com/",
+            "description":"This was a group project that I had done the design for,it was my first python project and we had to use Flask as well.  ",
+            "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-03-13%20091450.png"
+        }
+        ,
+        {
+            "name":"Python Weather App",
+            "render":"https://weatherapp-3-jve8.onrender.com/",
+            "description":"This was another group project that I did the design for . We used C-sharp and python to build this one.",
+            "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-03-13%20091240.png"
+        }
+
 
 
     ],
@@ -183,6 +198,19 @@
         }
        
         
+    ],
+    "badges":[
+        {
+            "name":"Javascript Essentials 2 ",
+            "link":"https://www.credly.com/badges/8af62b18-3a88-45d1-b5b5-9a629ea815f0/public_url",
+            "image":"https://images.credly.com/size/680x680/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png"
+        },
+        {
+            "name":"Python Essential 1",
+            "link":"https://www.credly.com/badges/161c2928-68e2-4006-a8d1-3bb8baa6e712/public_url",
+            "image":"https://images.credly.com/size/220x220/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
+
+        }
     ],
     "workExp":[
         {
