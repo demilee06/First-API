@@ -114,20 +114,8 @@
             "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-02-12%20084612.png"
 
         }
-        ,
-        {
-            "name":"Python HangMan Game",
-            "render":"https://hangman-4.onrender.com/",
-            "description":"This was a group project that I had done the design for,it was my first python project and we had to use Flask as well.  ",
-            "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-03-13%20091450.png"
-        }
-        ,
-        {
-            "name":"Python Weather App",
-            "render":"https://weatherapp-3-jve8.onrender.com/",
-            "description":"This was another group project that I did the design for . We used C-sharp and python to build this one.",
-            "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-03-13%20091240.png"
-        }
+        
+       
 
 
 
