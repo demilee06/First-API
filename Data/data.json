@@ -110,7 +110,7 @@
         ,{
             "name":"Wordpress E-com Website",
             "pantheon.io":"https://dev-my-com-website.pantheonsite.io/",
-            "description":"This project was built for a web development assigment, it is a e-commernce website where I integrated a products page that was provided while also adding a cart , checkout and a payment method. ",
+            "description":"This e-commerce website was built for a web development assignment. It includes a provided products page, with added cart, checkout, and payment functionality. ",
             "image":"https://demilee06.github.io/Portfolio-images/Screenshot%202025-02-12%20084612.png"
 
         }
